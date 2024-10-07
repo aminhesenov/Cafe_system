@@ -1,0 +1,18 @@
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\Cafe system.exe
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\Cafe system.deps.json
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\Cafe system.runtimeconfig.json
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\Cafe system.dll
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\ref\Cafe system.dll
+D:\C# dersleri\Cafe system\Cafe system\bin\Debug\net6.0-windows\Cafe system.pdb
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.csproj.AssemblyReference.cache
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe_system.Form1.resources
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.csproj.GenerateResource.cache
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.AssemblyInfoInputs.cache
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.AssemblyInfo.cs
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.dll
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\ref\Cafe system.dll
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.pdb
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe system.genruntimeconfig.cache
+D:\C# dersleri\Cafe system\Cafe system\obj\Debug\net6.0-windows\Cafe_system.Properties.Resources.resources
