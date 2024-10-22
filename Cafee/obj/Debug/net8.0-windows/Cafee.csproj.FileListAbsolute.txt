@@ -1,0 +1,17 @@
+C:\Users\aminh\source\repos\Cafee\Cafee\bin\Debug\net8.0-windows\Cafee.exe
+C:\Users\aminh\source\repos\Cafee\Cafee\bin\Debug\net8.0-windows\Cafee.deps.json
+C:\Users\aminh\source\repos\Cafee\Cafee\bin\Debug\net8.0-windows\Cafee.runtimeconfig.json
+C:\Users\aminh\source\repos\Cafee\Cafee\bin\Debug\net8.0-windows\Cafee.dll
+C:\Users\aminh\source\repos\Cafee\Cafee\bin\Debug\net8.0-windows\Cafee.pdb
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.Form1.resources
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.Properties.Resources.resources
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.csproj.GenerateResource.cache
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.AssemblyInfoInputs.cache
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.AssemblyInfo.cs
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.csproj.CoreCompileInputs.cache
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.dll
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\refint\Cafee.dll
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.pdb
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\Cafee.genruntimeconfig.cache
+C:\Users\aminh\source\repos\Cafee\Cafee\obj\Debug\net8.0-windows\ref\Cafee.dll
